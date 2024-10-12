@@ -448,6 +448,15 @@ footer a{
   display: flex;
   justify-content: center;
   align-items: center;
+  height: 40px;
+  width: 50px;
+  font-size: 25px;
+  border: none;
+  outline: none;
+  background-color: #dddddd;
+  &:hover{
+    background-color: #20ba96;
+  }
 }
 
 
